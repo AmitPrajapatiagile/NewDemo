@@ -1,0 +1,6 @@
+framework module NewDemo {
+  umbrella header "NewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
